@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 79d47afd3bd44f9408b82548c0d5aa38
+timeCreated: 1517232659
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Grass
+    100002: //RootNode
+    100004: Ground
+    100006: Grass_001
+    100008: Grass_002
+    100010: Grass_003
+    100012: Grass_004
+    100014: Grass_005
+    100016: Grass_006
+    100018: Grass_007
+    100020: Grass_008
+    100022: Grass_009
+    100024: Grass_010
+    100026: Grass_011
+    100028: Grass_012
+    100030: Grass_013
+    100032: Grass_014
+    100034: Grass_015
+    100036: Grass_016
+    100038: Grass_017
+    100040: Grass_018
+    100042: Grass_019
+    100044: Grass_020
+    100046: Grass_021
+    100048: Grass_022
+    100050: Grass_023
+    100052: Grass_024
+    100054: Grass_025
+    100056: Grass_026
+    400000: Grass
+    400002: //RootNode
+    400004: Ground
+    400006: Grass_001
+    400008: Grass_002
+    400010: Grass_003
+    400012: Grass_004
+    400014: Grass_005
+    400016: Grass_006
+    400018: Grass_007
+    400020: Grass_008
+    400022: Grass_009
+    400024: Grass_010
+    400026: Grass_011
+    400028: Grass_012
+    400030: Grass_013
+    400032: Grass_014
+    400034: Grass_015
+    400036: Grass_016
+    400038: Grass_017
+    400040: Grass_018
+    400042: Grass_019
+    400044: Grass_020
+    400046: Grass_021
+    400048: Grass_022
+    400050: Grass_023
+    400052: Grass_024
+    400054: Grass_025
+    400056: Grass_026
+    2100000: unnamed
+    2100002: Grass
+    2100004: Material
+    2300000: Grass
+    2300002: Ground
+    2300004: Grass_001
+    2300006: Grass_002
+    2300008: Grass_003
+    2300010: Grass_004
+    2300012: Grass_005
+    2300014: Grass_006
+    2300016: Grass_007
+    2300018: Grass_008
+    2300020: Grass_009
+    2300022: Grass_010
+    2300024: Grass_011
+    2300026: Grass_012
+    2300028: Grass_013
+    2300030: Grass_014
+    2300032: Grass_015
+    2300034: Grass_016
+    2300036: Grass_017
+    2300038: Grass_018
+    2300040: Grass_019
+    2300042: Grass_020
+    2300044: Grass_021
+    2300046: Grass_022
+    2300048: Grass_023
+    2300050: Grass_024
+    2300052: Grass_025
+    2300054: Grass_026
+    3300000: Grass
+    3300002: Ground
+    3300004: Grass_001
+    3300006: Grass_002
+    3300008: Grass_003
+    3300010: Grass_004
+    3300012: Grass_005
+    3300014: Grass_006
+    3300016: Grass_007
+    3300018: Grass_008
+    3300020: Grass_009
+    3300022: Grass_010
+    3300024: Grass_011
+    3300026: Grass_012
+    3300028: Grass_013
+    3300030: Grass_014
+    3300032: Grass_015
+    3300034: Grass_016
+    3300036: Grass_017
+    3300038: Grass_018
+    3300040: Grass_019
+    3300042: Grass_020
+    3300044: Grass_021
+    3300046: Grass_022
+    3300048: Grass_023
+    3300050: Grass_024
+    3300052: Grass_025
+    3300054: Grass_026
+    4300000: Ground
+    4300002: Grass
+    4300004: Grass_026
+    4300006: Grass_025
+    4300008: Grass_024
+    4300010: Grass_023
+    4300012: Grass_022
+    4300014: Grass_021
+    4300016: Grass_020
+    4300018: Grass_019
+    4300020: Grass_018
+    4300022: Grass_017
+    4300024: Grass_016
+    4300026: Grass_015
+    4300028: Grass_014
+    4300030: Grass_013
+    4300032: Grass_012
+    4300034: Grass_011
+    4300036: Grass_010
+    4300038: Grass_009
+    4300040: Grass_008
+    4300042: Grass_007
+    4300044: Grass_006
+    4300046: Grass_005
+    4300048: Grass_004
+    4300050: Grass_003
+    4300052: Grass_002
+    4300054: Grass_001
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
