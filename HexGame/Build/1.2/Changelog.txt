@@ -1,0 +1,25 @@
+
+Version 1.1 -
+
+* Ajout d'un menu
+* Gestion de la vitesse, de la mise en pause
+* Ajout d'un cycle des saisons - N'a aucun impact pour le moment
+* Reorganisation de l'UI
+* Ajout d'un gestionnaire d'événnements
+
+infos utiles :
+	Pour construire, sélectioner un batiment, une case, puis cliquer sur build building - Ceci changera
+	Utiliser les boutons flèches pour modifier le nombre de travailleurs - Le champ de texte ne fonctionne pas encore
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+Version 1.2 -
+
+* Ajout de quantités limites de resources, et de l'indicateur correspondant
+* Ajout d'une liste de fonctions spécifiques à chaque bâtiment, à éxécuter lors de leur construction / destruction
+* Ajout d'un bâtiment "entrepot" pour démonstration - Le placer augmente la capacité de stockage des ressources
+* Ajout de l'affichage des coûts en ressources des bâtiments
+* Ajout de la possibilité de tourner les bâtiments avant de les placer (touche r)
+* Ajout d'un décor sur les cases (arbres, herbe)
+* Ajout d'une musique principale
